@@ -1,5 +1,6 @@
-\\Eduardo Costa Mendes      
-\\11721ETE010
+//Eduardo Costa Mendes
+//11721ETE010
+
 #include <stdio.h>
 #include <stdlib.h>
 #define max 100
